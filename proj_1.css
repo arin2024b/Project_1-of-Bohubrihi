@@ -1,0 +1,55 @@
+body{
+    font-family: "Open Sans", sans-serif;
+    background-color:darkcyan;
+}
+
+.navbar{
+    background-color: darkslateblue !important ;
+    top: 0;
+    position: sticky;
+    z-index: 2;
+}
+
+.banner-container{
+    background-color: #CACACA;
+}
+
+.banner-collumn{
+    background-color: #8D8D8D;
+}
+
+#products{
+    color:aquamarine;
+    font-size: 13px;
+    opacity: 0.788;
+}
+#products:hover{
+    color: bisque;
+    opacity: 1.0;
+    font-size: 1.5vw;
+}
+
+#carts{
+    color:aquamarine ;
+    font-size: 12px;
+    opacity: .788;
+}
+#carts:hover{
+    color: bisque;
+    font-size: 1.5vw;
+    opacity: 1.5vw;
+}
+
+.product-container{
+    background-color: teal;
+}
+.product{
+    background-color: bisque;
+}
+
+.cart-container{
+    background-color: slategray;
+}
+.cart{
+    background-color: beige;
+}
